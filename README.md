@@ -1,6 +1,9 @@
 # BOBHackathon_Team-DAAT
 Idea submission to BOB hackathon with ID8NXT by Dhrumi Shah, Amay Doshi, Ashton Mendonca and Tej Bhachhav.
 
+# Challenge: Operational Efficiency
+To enhance the operational efficiency of banking processes by integrating generative AI to automate routine tasks and optimize workflows.
+
 # New Bank Features
 
 ## Chat with Website + Info of Government/Official Parties
